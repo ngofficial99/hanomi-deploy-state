@@ -1,0 +1,2 @@
+service: backend
+image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/backend@sha256:REPLACED_BY_CI

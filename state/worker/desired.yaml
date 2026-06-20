@@ -1,0 +1,2 @@
+service: worker
+image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/worker@sha256:REPLACED_BY_CI
