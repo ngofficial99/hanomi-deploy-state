@@ -1,2 +1,2 @@
 service: worker
-image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/worker@sha256:05086686ef5f7be6d1738f8a6805fd2da11e377ec538a774107bda9d57cb60b2
+image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/worker@sha256:97d2e50abca486115559b6fcfe177060e81825324fc17064a4795bc8d42e7868
