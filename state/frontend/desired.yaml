@@ -1,2 +1,2 @@
 service: frontend
-image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/frontend@sha256:REPLACED_BY_CI
+image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/frontend@sha256:4b1a15b8631dbfa2cd4a856fd548e83573d7debec77025658005a8fea33baaa7
