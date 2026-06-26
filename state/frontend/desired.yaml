@@ -1,2 +1,2 @@
 service: frontend
-image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/frontend@sha256:565d8a5e0d0677d3a4aae16a2fecf676d2d61d863166344986ee0049f63a3605
+image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/frontend@sha256:53bdfd314c8867c04920bfeda3ec9f90aa471b6b313f6c6286858aeb5a9ada38
