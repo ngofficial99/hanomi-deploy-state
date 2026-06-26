@@ -1,2 +1,2 @@
 service: backend
-image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/backend@sha256:edd4b0e01a33dd3a1b5cc5dbb077280a1a4f19f95330c987d1fa889841d66acb
+image: asia-south1-docker.pkg.dev/knock-knock-dev-499112/hanomi/backend@sha256:17828d955c57627060c21dcf7ccaf256e06c996ca598e27d86eb27e6b75c714c
